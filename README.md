@@ -1,5 +1,5 @@
-# Apriori-Python
-A simple implementation of Apriori Algorithm  
+# DataMing
+1. A simple implementation of Apriori Algorithm  
 Write frequent itemsets to an Excel file
 
 Input data format：
@@ -10,3 +10,5 @@ Input data format：
 39 422 449 704 825 857 895 937 954 964 
 15 229 262 283 294 352 381 708 738 766 853 883 966 978 
 ```
+2. Clustering Algorithm - KMedoids
+Update rule: i+1th iter's loss < ith iter's loss
